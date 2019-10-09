@@ -1,7 +1,7 @@
 # Important Links
 
 
-# Data NYC
+## Data NYC
 
 [Oasis](http://www.oasisnyc.net/map.aspx)
 
@@ -10,7 +10,7 @@
 [NYC Planning Data](https://www1.nyc.gov/site/planning/data-maps/open-data/bytes-archive.page?sorts[year]=0)
 
 
-Other Links:
+## Other Links:
 
 [NYC Retrofit Accelerator](https://retrofitaccelerator.cityofnewyork.us/about-us)
 
